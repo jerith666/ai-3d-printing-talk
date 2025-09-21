@@ -25,80 +25,118 @@
 				<p style="font-size:75%">https://matt.mchenryfamily.org/ai-3d-printing-talk</p>
 			</section>
 
+			<!-- bug reports, legacy systems, and the kludgy fix
+
+   				 * a parable about bug reports, legacy systems, and using AI for development
+			       (with plenty of 3d printing fun too!)
+			-->
+
 			<section>
-				<p style="font-size: 300%">🐛 📋</p>
-				<p class="fragment" style="font-size: 200%">bug reports</p>
+				<section>
+					<p style="font-size: 300%">🐛 📋</p>
+					<p class="fragment" style="font-size: 200%">bug reports</p>
+				</section>
+
+				<section>
+					<p style="font-size: 250%; text-align:left">Daaadyyy!!!</p>
+					<p class="fragment" style="font-size: 150%; text-align:right">Whaaaat??</p>
+					<p class="fragment" style="font-size: 250%; text-align:left">The shower's broken!</p>
+					<p class="fragment" style="font-size: 150%; text-align:right">What do you mean, broken?</p>
+					<!-- "shower stopper", weekend plans are shot -->
+				</section>
+
+				<section>
+					<p>TODO movie of the handle turning past shut-off point</p>
+				</section>
+
+				<section>
+					<p>TODO movie of same w/ cover off</p>
+				</section>
+
+				<section>
+					<p>TODO photo of old, cracked part, dried super-glue</p>
+					<!-- kludgy fixes are an important tool for legacy systems -->
+				</section>
+
+				<!-- outline
+
+				* the "daddy, the shower's broken!" bug report
+				  what makes a good bug report
+				  what to do when you get a bad bug report -- asking the reporter, reproducing, evaluating severity, scheduling work
+
+				* investigating bugs in a legacy system
+				  can you debug/diagnose without breaking things?
+
+				* first try: kludgy patch
+				  with legacy systems, the kludgy patch is sometimes the right fix!
+				  it's fixed!  let's forget about it and move on!
+				-->
 			</section>
 
-			<!-- outline
+			<section>
+				<section data-auto-animate">
+					<img data-id="claude-1" src="claude-dialog-1.png">
+				</section>
+				<section data-auto-animate>
+					<img data-id="claude-1" src="claude-dialog-1.png" style="width: 200%; ">
+				</section>
 
-			-- bug reports, legacy systems, and the kludgy fix
+				<section>
+					<p>pg 2</p>
+				</section>
+				<!-- fixing it for real, part 1: AI
 
-			* a parable about bug reports, legacy systems, and using AI for development
-			  (with plenty of 3d printing fun too!)
+				* AI starting points
+				treating the AI like a human
+				multi-modal input
 
-			* the "daddy, the shower's broken!" bug report
-			  what makes a good bug report
-			  what to do when you get a bad bug report -- asking the reporter, reproducing, evaluating severity, scheduling work
+				* AI iteration
+				just like a human, AI usually gets it wrong the first time
+				how to react?
+					- describe what's wrong and let the AI try again on its own
+					- diagnose what's wrong and prescribe what the AI should change
 
-			* investigating bugs in a legacy system
-			  can you reproduce?
-			  can you debug/diagnose without breaking things?
+				* using the AI to guide your own learning
+				there are *definitely* no stupid questions now!
+				ask it why it did what it did
+					- don't trust!  and verify!
+				don't be afraid of tangents (conversation trees)
 
-			* first try: kludgy patch
-			  with legacy systems, the kludgy patch is sometimes the right fix!
-			  it's fixed!  let's forget about it and move on!
+				* the AI-to-human handoff
+				realizing that the AI is thrashing
+				predicting time to completion via AI collaboration vs. solo-human
+				-->
+			</section>
+			<section>
+				<!-- fixing it for real, part 2: 3d printing & debugging
 
-			-- fixing it for real, part 1: AI
+				* primer on 3D modeling & OpenSCAD
+				2d shapes & paths
+				3d extrusion
+				transformations
+				union, difference, and intersect
+				modules & functions
 
-			* AI starting points
-			  treating the AI like a human
-			  multi-modal input
+				* designing a part
+				take cues from AI
+					- start with measurements
+					- comment your code
+					- debug your model
 
-		    * AI iteration
-			  just like a human, AI usually gets it wrong the first time
-			  how to react?
-			    - describe what's wrong and let the AI try again on its own
-				- diagnose what's wrong and prescribe what the AI should change
+				* debugging 3d models
+				make your cut-out shapes visible
+				narrow your scope - only render & print what you're unsure of
 
-			* using the AI to guide your own learning
-			  there are *definitely* no stupid questions now!
-			  ask it why it did what it did
-			    - don't trust!  and verify!
-			  don't be afraid of tangents (conversation trees)
+				* part breakage & 3d printing primer
+				ask an expert -- your teenage engineer!
+				the slicer: from 3d mesh to printer movements
+				rotating the printing plane
+				infill, supports, etc.
 
-			* the AI-to-human handoff
-			  realizing that the AI is thrashing
-			  predicting time to completion via AI collaboration vs. solo-human
+				* final thoughts
 
-			-- fixing it for real, part 2: 3d printing & debugging
-
-			* primer on 3D modeling & OpenSCAD
-			  2d shapes & paths
-			  3d extrusion
-			  transformations
-			  union, difference, and intersect
-			  modules & functions
-
-			* designing a part
-			  take cues from AI
-			    - start with measurements
-				- comment your code
-				- debug your model
-
-			* debugging 3d models
-			  make your cut-out shapes visible
-			  narrow your scope - only render & print what you're unsure of
-
-			* part breakage & 3d printing primer
-			  ask an expert -- your teenage engineer!
-			  the slicer: from 3d mesh to printer movements
-			  rotating the printing plane
-			  infill, supports, etc.
-
-			* final thoughts
-
-			-->
+				-->
+			</section>
 		</div>
 	</div>
 
@@ -106,6 +144,7 @@
 	<script src="plugin/notes/notes.js"></script>
 	<script src="plugin/markdown/markdown.js"></script>
 	<script src="plugin/highlight/highlight.js"></script>
+	<script src="plugin/zoom/zoom.js"></script>
 	<script>
 		// More info about initialization & config:
 		// - https://revealjs.com/initialization/
@@ -114,7 +153,7 @@
 			hash: true,
 
 			// Learn about plugins: https://revealjs.com/plugins/
-			plugins: [RevealMarkdown, RevealHighlight, RevealNotes]
+			plugins: [RevealMarkdown, RevealHighlight, RevealNotes, RevealZoom]
 		});
 	</script>
 </body>
