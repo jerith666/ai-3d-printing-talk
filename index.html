@@ -42,7 +42,11 @@
 					<p class="fragment" style="font-size: 150%; text-align:right">Whaaaat??</p>
 					<p class="fragment" style="font-size: 250%; text-align:left">The shower's broken!</p>
 					<p class="fragment" style="font-size: 150%; text-align:right">What do you mean, broken?</p>
-					<!-- "shower stopper", weekend plans are shot -->
+					<!--
+					  what makes a good bug report
+					  what to do when you get a bad bug report -- asking the reporter, reproducing, evaluating severity, scheduling work
+
+					  "shower stopper", weekend plans are shot -->
 				</section>
 
 				<section>
@@ -60,9 +64,6 @@
 
 				<!-- outline
 
-				* the "daddy, the shower's broken!" bug report
-				  what makes a good bug report
-				  what to do when you get a bad bug report -- asking the reporter, reproducing, evaluating severity, scheduling work
 
 				* investigating bugs in a legacy system
 				  can you debug/diagnose without breaking things?
@@ -73,29 +74,38 @@
 				-->
 			</section>
 
+			<!-- fixing it for real, part 1: AI-->
 			<section>
 				<section data-background-image="claude-dialog-montage.png" data-background-size="contain">
+					<!-- * multi-modal input: images as well as text
+					     * AI is very talkative -->
 				</section>
 
 				<section>
-					<p>pg 2</p>
+					<img src="claude-initial-prompt.png">
+					<!-- * AI starting points
+						   treating the AI like a human -->
 				</section>
-				<!-- fixing it for real, part 1: AI
 
-				* AI starting points
-				treating the AI like a human
-				multi-modal input
+				<section>
+					<img src="claude-part-images.png">
+					<!-- multi-modal input -->
+				</section>
 
-				* AI iteration
+				<section>
+					<img src="claude-measurement-request.png">
+				</section>
+
+				<!-- * AI iteration
 				just like a human, AI usually gets it wrong the first time
 				how to react?
-					- describe what's wrong and let the AI try again on its own
-					- diagnose what's wrong and prescribe what the AI should change
+				- describe what's wrong and let the AI try again on its own
+				- diagnose what's wrong and prescribe what the AI should change
 
 				* using the AI to guide your own learning
 				there are *definitely* no stupid questions now!
 				ask it why it did what it did
-					- don't trust!  and verify!
+				- don't trust! and verify!
 				don't be afraid of tangents (conversation trees)
 
 				* the AI-to-human handoff
