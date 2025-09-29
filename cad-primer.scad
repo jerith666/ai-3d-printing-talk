@@ -1,3 +1,5 @@
+$fn=50;
+
 //cube(10);
 
 //cube(10,center=true);
@@ -7,6 +9,11 @@
 //difference(){
 //    cube(10,center=true);
 //    sphere(6);
+//}
+
+//difference(){
+//    sphere(6);
+//    cube(10,center=true);
 //}
 
 //intersection(){
