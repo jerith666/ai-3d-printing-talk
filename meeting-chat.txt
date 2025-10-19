@@ -1,0 +1,256 @@
+00:08:45.063,00:08:48.063
+Lauren Dunne: it's a blocker!
+
+00:09:09.861,00:09:12.861
+James Benson: "It's a feature"
+
+00:09:13.619,00:09:16.619
+Kajal Miyan: Shower stopper
+
+00:09:14.769,00:09:17.769
+John Reeves: It used to work
+
+00:09:20.968,00:09:23.968
+James Benson: "Worked in my shower."
+
+00:09:29.300,00:09:32.300
+Lauren Dunne: worked in QA just fine
+
+00:09:30.491,00:09:33.491
+Lyle Seaman: I expect more dad jokes
+
+00:09:48.798,00:09:51.798
+Michael Mann: @kajal lol 👏
+
+00:09:48.925,00:09:51.925
+Goureesh Lanka: showstopper
+
+00:09:52.930,00:09:55.930
+Lyle Seaman: Shower stopper is a good start
+
+00:10:01.090,00:10:04.090
+Josh Tippett: kids ... any excuse not to shower
+
+00:10:09.387,00:10:12.387
+John Ackley: tsafeature
+
+00:10:09.432,00:10:12.432
+James Benson: It's a great stop too LYle.
+
+00:11:46.841,00:11:49.841
+Martina Pavelko: OMG so much worse is a distinct possibility with water.
+
+00:12:06.520,00:12:09.520
+Lyle Seaman: at least it's not toilets
+
+00:12:20.718,00:12:23.718
+John Ackley: every time I try to fix plumbing turns into a home owners claim ;}
+
+00:12:37.301,00:12:40.301
+John Reeves: There's a workaround, aren't there like 5 other places they can get water?
+
+00:13:02.469,00:13:05.469
+Lyle Seaman: I have redundant bathrooms
+
+00:13:06.462,00:13:09.462
+Josh Tippett: they're fault!
+
+00:13:21.274,00:13:24.274
+Josh Tippett: ... *their
+
+00:13:29.966,00:13:32.966
+James Benson: Hopefully step 1: "Turn water off" :)
+
+00:13:48.010,00:13:51.010
+Josh Tippett: get out the 3D printer!
+
+00:13:51.038,00:13:54.038
+Mike “Pez” Hasko: I do like Matt's mental state of "I need to fix this shower AND document each step of it for a talk I can give"
+
+00:13:53.767,00:13:56.767
+Lyle Seaman: duct tape
+
+00:13:57.478,00:14:00.478
+Rich Abbott: super glue
+
+00:14:13.757,00:14:16.757
+Lyle Seaman: hose clamp
+
+00:14:23.344,00:14:26.344
+Josh Tippett: should have a 3D model for you in ~2 sprints
+
+00:15:06.158,00:15:09.158
+Martina Pavelko: Note to self: send Matt all the broken little plastic bits in all my small Chinese-made appliances that weren't designed to be repaired. &lt;rant&gt;Because they don't make things like they used to anymore!&lt;/rant&gt;
+
+00:15:20.907,00:15:23.907
+Lyle Seaman: super glue was not actually a good idea matt
+
+00:15:22.676,00:15:25.676
+John Reeves: Just expose the inner implementation details. Give the kids channel lock pliers and have them turn the thing directly
+
+00:15:30.966,00:15:33.966
+Lyle Seaman: boom!
+
+00:15:48.948,00:15:51.948
+Michael Mann: shower CLI
+
+00:15:51.673,00:15:54.673
+Martina Pavelko: Such a syncophantic AI
+
+00:16:13.657,00:16:16.657
+James Benson: Should have given it a Lidar map and see what it did.
+
+00:16:51.307,00:16:54.307
+Lyle Seaman: close
+
+00:16:56.022,00:16:59.022
+Josh Tippett: does the model have the cracks?
+
+00:17:05.829,00:17:08.829
+Martina Pavelko: lol
+
+00:17:06.898,00:17:09.898
+John Reeves: We're going for MVP
+
+00:17:20.498,00:17:23.498
+Michael Mann: pre-relic-ed with authentic cracking
+
+00:17:26.970,00:17:29.970
+Rich Abbott: lol
+
+00:17:28.833,00:17:31.833
+John Ackley: had a very similar experience trying to get 3d building models from chatgpt5
+
+00:17:49.544,00:17:52.544
+Josh Tippett: back to the channel locks!
+
+00:18:44.470,00:18:47.470
+Josh Tippett: have you considered a full bathroom demo?
+
+00:19:15.373,00:19:18.373
+Lyle Seaman: hire a boutique shower-dev firm, they'll build you a new one for only $50k
+
+00:19:21.735,00:19:24.735
+Josh Tippett: ... here is a video on how to use a sledge hammer
+
+00:20:09.966,00:20:12.966
+Martina Pavelko: can we recommend that Matt's in-person talk include the ability for people to add running commentary? Because this chat is priceless.
+
+00:20:15.640,00:20:18.640
+Lyle Seaman: google "kolher replacement shower parts"
+
+00:20:56.423,00:20:59.423
+Michael Mann: The Statler and Waldorf experience? Yes, please, Martina.
+
+00:22:06.202,00:22:09.202
+Martina Pavelko: Heckling -&gt; on
+
+00:22:18.235,00:22:21.235
+John Reeves: This to me is useful because I've been wanting to 3d print some gears for a specific use case, and I want to do the modeling myself.
+
+00:22:44.074,00:22:47.074
+John Reeves: Now that's a sphere Claude would tell you to print
+
+00:24:54.564,00:24:57.564
+Lauren Dunne: sorry have to drop Matt.
+
+00:25:03.585,00:25:06.585
+John Reeves: Claude, give me instructions to print a Penrose triangle
+
+00:25:18.622,00:25:21.622
+Lyle Seaman: https://www.amazon.com/GGTE-1070733-Faucet-Handle-Driver/dp/B0FDKSKG9W/ref=pd_lpo_d_sccl_3/138-9573410-1978657?pd_rd_w=uo5a7&amp;content-id=amzn1.sym.4c8c52db-06f8-4e42-8e56-912796f2ea6c&amp;pf_rd_p=4c8c52db-06f8-4e42-8e56-912796f2ea6c&amp;pf_rd_r=E6KM992T5KQ5Y9RAHHCA&amp;pd_rd_wg=WTiPq&amp;pd_rd_r=004db615-9720-494f-9d52-a790f43e1b8c&amp;pd_rd_i=B0FDKSKG9W&amp;th=1
+
+00:25:26.530,00:25:29.530
+Lyle Seaman: $5 and they'll deliver it tomorrow
+
+00:25:54.411,00:25:57.411
+Martina Pavelko: Or speaking of Playdoh -- maybe that would have been the way.
+
+00:26:31.378,00:26:34.378
+Michael Mann: "Can AI Help Me Shop at Amazon?" would be a far less interesting tech talk.
+
+00:26:37.194,00:26:40.194
+Josh Tippett: at least the kids will have plenty of 3D toys for the bathtub
+
+00:28:59.499,00:29:02.499
+John Reeves: "OpenSCAD The Programmers Solid 3D CAD Modeller"
+Thanks Matt, this is speaking my language!
+
+00:31:28.371,00:31:31.371
+Derric Denniston: Claude, is my shower handle part topologically equivalent to a Doughnut? Write a formal proof please.
+
+00:32:05.690,00:32:08.690
+Ryan Ostrager: Mine isn't but my coffee mug definitely is
+
+00:34:01.474,00:34:04.474
+Michael Mann: physical integration test
+
+00:35:08.746,00:35:11.746
+Ryan Ostrager: physical stuff is always fun to debug because there's no log messages or debugger to fall back on.
+
+00:38:03.381,00:38:06.381
+John Reeves: I thought he was going to say "the part was too weak"
+
+00:38:43.734,00:38:46.734
+John Reeves: It's all one atom.
+
+00:41:52.870,00:41:55.870
+Martina Pavelko: this is like the instruction to carve the turkey against the grain
+
+00:42:21.838,00:42:24.838
+John Ackley: potentially more cleanup :-!
+
+00:42:24.434,00:42:27.434
+John Reeves: Hmm, I would have thought rotate 45 degrees, I wonder if the socket is a weak point now.
+
+00:43:10.414,00:43:13.414
+Ryan Ostrager: Fancier 3d printers can support multiple filament types so that you can make support material out of some other type of plastic and dissolve away the support material
+
+00:43:24.242,00:43:27.242
+Rodrigo Silva: great presentation
+
+00:43:50.434,00:43:53.434
+Martina Pavelko: Very engaging
+
+00:44:18.695,00:44:21.695
+John Reeves: So they DO get the channel locks!
+
+00:44:25.623,00:44:28.623
+Josh Tippett: great learning experience ... what do you think it cost you in lost opportunity cost?
+
+00:44:54.746,00:44:57.746
+Kajal Miyan: planned outage, counting against SLA or not?
+
+00:45:38.886,00:45:41.886
+Ryan Ostrager: I had to replace a similar part in my shower handle and I had to go to multiple stores before I could find someone who was able to order the part I needed from the manufacturer
+
+00:45:40.228,00:45:43.228
+John Ackley: planned obsolescence !
+
+00:45:47.838,00:45:50.838
+Ryan Ostrager: It was still an ordeal even without DIY
+
+00:45:48.834,00:45:51.834
+Valerie Beattie: I really like that the idea of collaboration/talking through things with others came in here to with your son's comment!
+
+00:46:16.332,00:46:19.332
+Martina Pavelko: it's not quite right, I think
+
+00:46:43.683,00:46:46.683
+Mike “Pez” Hasko: #matt-mchenryfamily
+
+00:46:56.817,00:46:59.817
+Michael Mann: part Lyle found is the wrong color :D 🎨
+
+00:48:04.505,00:48:07.505
+Mike “Pez” Hasko: AI is the new StackOverflow, it will give you 10 answers, and 1 of them is correct.
+
+00:48:11.616,00:48:14.616
+Ryan Ostrager: If you tried googling with traditional search you'd probably have to spend quite a while to even figure out the right keywords to use
+
+00:48:42.863,00:48:45.863
+John Reeves: Thanks, I'm learning OpenSCAD now
+
+00:48:56.065,00:48:59.065
+Michael Mann: yeah, OpenSCAD looks fun
+
